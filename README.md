@@ -27,7 +27,7 @@ A Google Colab Notebook containing the data preparation, analysis, and visualisa
 
 ### 1 - Find Unusual Patterns in Hourly Google Search Traffic
 
-
+Through the creation of two seperate dataframes, one presenting the search traffic trends for 2016 to 2020, whilst the other detailing the search traffic for the month of May in 2020. Patterns in both dataframes were found through the visualisation of plots, providing evidence that the median values correlated heavily, with very little variation in the data. Therefore, dispelling the possibility that large outliers or unusual patterns exist within the Hourly Google Search Traffic Dataframe.
 
 ### 2 - Mine the Search Traffic Data for Seasonality
 

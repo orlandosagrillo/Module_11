@@ -16,11 +16,11 @@ A Google Colab Notebook containing the data preparation, analysis, and visualisa
 
 ## Steps:
 
-##### 1 - Find Unusual Patterns in Hourly Google Search Traffic
-##### 2 - Mine the Search Traffic Data for Seasonality
-##### 3 - Relate the Search Traffic to Stock Price Patterns
-##### 4 - Create a Time Series Model by Using Prophet
-##### 5 (Optional) - Forecast the Revenue by Using Time Series Models
+1 - Find Unusual Patterns in Hourly Google Search Traffic
+2 - Mine the Search Traffic Data for Seasonality
+3 - Relate the Search Traffic to Stock Price Patterns
+4 - Create a Time Series Model by Using Prophet
+5 (Optional) - Forecast the Revenue by Using Time Series Models
 
 
 ## Findings:

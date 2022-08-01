@@ -43,4 +43,4 @@ In Step 4 a forecasting model was prepared, fitted and created in order to find 
 
 ### 5 (Optional) - Forecast the Revenue by Using Time Series Models
 
-
+Based on the forecast information generated within the forecasted dataframes, thus producing the sum of all values and the sales forecast for the finance division, the expected total sales next quater in it's Best Case Scenario is 8043.17, which in comparison to the Worst Case Scenario, which totalled 5796.1, a -27.937% decrease. This may present detail on the volatility of sales forecasted. However, as the Most Likely Case of forecasted sales is 6920.125, it is more possible that MercadoLibre will achieve a lesser sum then the Best Case, which is what is hoped for. However, it is sensible to assume MercadoLibre will produce profits and growth.
